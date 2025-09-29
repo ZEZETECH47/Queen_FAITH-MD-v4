@@ -5,7 +5,7 @@ FROM node:20-buster
 WORKDIR /app
 
 # Copy package.json and package-lock.json to the container
-COPY package*.json ./
+COPY package.json ./
 
 # Install the application dependencies
 RUN npm install

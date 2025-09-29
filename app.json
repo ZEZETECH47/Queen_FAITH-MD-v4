@@ -1,7 +1,7 @@
 {
   "name": "FAITH-MD",
   "description": "Javascript WhatsApp bot made by zezetech",
-  "logo": "https://files.catbox.moe/fgiecg.jpg",
+  "logo": "https://files.catbox.moe/12phie.jpg",
   "keywords": ["FAITH-MD"],
   "success_url": "/",
   "stack": "container",
@@ -104,7 +104,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": ""
+      "value": "https://files.catbox.moe/12phie.jpg"
     },
     "DESCRIPTION": {
       "description": "add caption for menu and other",

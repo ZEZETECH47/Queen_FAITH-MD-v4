@@ -40,7 +40,7 @@ async (conn, mek, m, { from, reply }) => {
 `.trim();
 
         await conn.sendMessage(from, {
-            image: { url: `https://files.catbox.moe/fgiecg.jpg` }, // you can change image
+            image: { url: `https://files.catbox.moe/12phie.jpg` }, // you can change image
             caption: formattedInfo,
             contextInfo: {
                 mentionedJid: [m.sender],
@@ -61,7 +61,7 @@ async (conn, mek, m, { from, reply }) => {
             message: {
                 contactMessage: {
                     displayName: "FAITH-MD VERIFIED",
-                    vcard: `BEGIN:VCARD\nVERSION:3.0\nN: FAITH-MD;BOT;;;\nFN:PK-XMD\nitem1.TEL;waid=255747397675:+255 74739 7675\nitem1.X-ABLabel:Bot\nEND:VCARD`
+                    vcard: `BEGIN:VCARD\nVERSION:3.0\nN: FAITH-MD;BOT;;;\nFN: FAITH-MD\nitem1.TEL;waid=255747397675:+255 74739 7675\nitem1.X-ABLabel:Bot\nEND:VCARD`
                 }
             }
         } });

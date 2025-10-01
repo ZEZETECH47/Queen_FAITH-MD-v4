@@ -12,7 +12,7 @@
   <table>
     <tr>
       <td>
-        <a href="https://dashboard.heroku.com/new?template=https://github.com/ZEZETECH47/queen-FAITH-MD" target="_blank">
+        <a href="https://dashboard.heroku.com/new?template=https://github.com/ZEZETECH47/queen-FAITH-MD-V4" target="_blank">
           <img src="https://img.shields.io/badge/DEPLOY HEROKU-F44336?style=for-the-badge&logo=heroku&logoColor=white&labelColor=1a1a1a"/>
         </a>
       </td>

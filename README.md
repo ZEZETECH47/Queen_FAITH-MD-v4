@@ -1,6 +1,6 @@
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=FAITH47-MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=ALONE MD" alt="Typing SVG" /></a>
 <img alt="faith logo"  src="https://i.imgur.com/VwloR6v.jpeg">
   </a>
 </p>
